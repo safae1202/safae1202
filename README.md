@@ -116,3 +116,46 @@ Git • GitHub • Bitbucket
 </p>
 
 ---
+
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#4B5563;">
+  Hi 👋 I'm [Your Name]
+</h1>
+
+<p align="center" style="font-size:18px; color:#6B7280; font-style:italic;">
+  A passionate developer from Jakarta, building clean & modern apps.
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img alt="Jakarta EE" src="https://img.shields.io/badge/JakartaEE-007FFF?style=for-the-badge&logo=jakartaee&logoColor=white"/>
+  <img alt="REST API" src="https://img.shields.io/badge/REST-API-6DB33F?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+</p>
+
+---
