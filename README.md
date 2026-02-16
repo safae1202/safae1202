@@ -18,22 +18,13 @@ Here are some ideas to get you started:
 <!-- <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#4B5563;">
   I'm Safae Belahrach 🌱
 </h1> -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=I'm+Safae+Belahrach" alt="Typing SVG" /> 🌱
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=I'm+Safae+Belahrach+🌱" alt="Typing SVG" /> 
 </h1>
 <h3 align="center">
   <kbd>Software Engineer</kbd> • <kbd>Java Developer </kbd> • <kbd>Full-Stack Enthusiast</kbd> • <kbd>IA Passionate</kbd>
 </h3>
-
-
-Lol
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/wave.gif" width="35px">
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Hi...;I'm+Safae+Belahrach+🌱" />
-  </a>
-</h1>
 
 ---
 
