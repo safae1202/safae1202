@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧠 About Me
+## 💻 About Me
 
 - 🎓 Software Engineer Graduate  
 - ☕ Passionate about Java & Object-Oriented Programming  
 - ⚙️ Backend-focused with strong problem-solving skills  
 - 🌐 Building modern web apps with Angular & React  
-- 🚀 Always learning new technologies and best practices  
+- 🚀 Always learning new technologies and best practices
+- ⚡ Improving DevOps skills with Docker & Kubernetes  
+- ⚡ Strengthening Data Structures & System Design  
 
 ---
 
@@ -54,6 +56,12 @@ Here are some ideas to get you started:
 
 ---
 
+### 🐳 DevOps & Tools
+Docker • Kubernetes • Linux  
+Git • GitHub • Bitbucket 
+
+---
+
 ## 🎯 Specializations
 
 - 🔹 Java Backend Development  
@@ -75,17 +83,36 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contact Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+- 💼 LinkedIn: [[LinkedIn](https://www.linkedin.com/in/safaebelahrach/)]
 
 ---
 
-## 📫 Contact Me
+### 🛠️ Tech Stack & Tools
 
-- 💼 LinkedIn: [[Your LinkedIn Link](https://www.linkedin.com/in/safaebelahrach/)]
+<p align="center">
+  <!-- Languages & Web -->
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white"/>
+  
+  <!-- Databases -->
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+  
+  <!-- Backend & Frameworks -->
+  <img alt="Jakarta EE" src="https://img.shields.io/badge/JakartaEE-007FFF?style=flat&logo=jakartaee&logoColor=white"/>
+  <img alt="REST API" src="https://img.shields.io/badge/REST-API-6DB33F?style=flat"/>
+  
+  <!-- DevOps & Tools -->
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white"/>
+</p>
 
 ---
