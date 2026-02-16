@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#4B5563;">
+<!-- <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#4B5563;">
   I'm Safae Belahrach 🌱
+</h1> -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=I'm+Safae+Belahrach" alt="Typing SVG" /> 🌱
 </h1>
 <h3 align="center">
   <kbd>Software Engineer</kbd> • <kbd>Java Developer </kbd> • <kbd>Full-Stack Enthusiast</kbd> • <kbd>IA Passionate</kbd>
 </h3>
 
-LOL
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=Hi+%2C+I'm+Safae+Belahrach" alt="Typing SVG" />
-</h1>
 ---
 
 ## 💻 About Me
