@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#4B5563;">
-  I'm Safae Belahrach 🌱
+  I'm **Safae Belahrach** ✨ _special_ ✨🌱
 </h1>
 <h3 align="center">Software Engineer | Java Developer | Full-Stack Enthusiast</h3>
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ## ⚒️ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,c" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,c,bash,ocaml,ada" />
 </p>
 
 ---
@@ -50,19 +50,9 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,mysql,postgres,vscode,latex" />
-</p>
-
----
-
 ## 🐳 DevOps & Tools
-Docker • Kubernetes • Linux  
-Git • GitHub • Bitbucket 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,k8s,terraform,linux,jenkins,podman" />
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,k8s,terraform,linux,jenkins" />
 </p>
 
 ---
@@ -71,6 +61,30 @@ Git • GitHub • Bitbucket
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,latex,postman" />
+</p>
+
+---
+
+## 🛠️ Frontend & Backend
+
+<p align="center">
+  <!-- Frontend -->
+  <strong>Frontend:</strong>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,angular,typescript" />
+</p>
+
+<p align="center">
+  <!-- Backend -->
+  <strong>Backend:</strong>
+  <img src="https://skillicons.dev/icons?i=spring,java,jakarta" />
 </p>
 
 ---
