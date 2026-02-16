@@ -16,9 +16,28 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#4B5563;">
-  I'm **Safae Belahrach** ✨ _special_ ✨🌱
+  I'm Safae Belahrach 🌱
 </h1>
 <h3 align="center">Software Engineer | Java Developer | Full-Stack Enthusiast</h3>
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/wave.gif" width="30px"> 
+  <span style="color: #0969da;">Hi, I'm [Your Name]</span>
+</h1>
+<p align="center">
+  <kbd>Développeur Fullstack</kbd> • <kbd>Passionné d'IA</kbd> • <kbd>Open Source</kbd>
+</p>
+
+# 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Hi%20👋%20I'm%20[Your%20Name]&fontSize=50&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ---
 
@@ -37,7 +56,7 @@ Here are some ideas to get you started:
 ## ⚒️ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,c,bash,ocaml,ada" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,c,bash,ocaml" />
 </p>
 
 ---
@@ -78,13 +97,13 @@ Here are some ideas to get you started:
 <p align="center">
   <!-- Frontend -->
   <strong>Frontend:</strong>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,angular,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,angular,react,typescript,javascript" />
 </p>
 
 <p align="center">
   <!-- Backend -->
   <strong>Backend:</strong>
-  <img src="https://skillicons.dev/icons?i=spring,java,jakarta" />
+  <img src="https://skillicons.dev/icons?i=spring,java,cpp,python" />
 </p>
 
 ---
