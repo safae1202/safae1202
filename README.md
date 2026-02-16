@@ -20,11 +20,22 @@ Here are some ideas to get you started:
 </h1> -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=I'm+Safae+Belahrach+🌱" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=I'm+Safae+Belahrach" alt="Typing SVG" /> 
 </h1>
 <h3 align="center">
   <kbd>Software Engineer</kbd> • <kbd>Java Developer </kbd> • <kbd>Full-Stack Enthusiast</kbd> • <kbd>IA Passionate</kbd>
 </h3>
+
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/wave.gif" width="35px">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Hi...;I'm+[Your+Name]+%F0%9F%8C%B1" alt="Hi I'm [Your Name] 🌱" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi%20I'm%20[Your%20Name]%20%F0%9F%8C%B1-4F46E5?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
