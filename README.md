@@ -26,11 +26,11 @@ LOL
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/wave.gif" width="35px">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+[Safae+Belahrach]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Safae+Belahrach" alt="Typing SVG" />
 </h1>
 LOL2
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=4F46E5&text=Hi,%20I'm%20[Safae%20Belahrach]&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=ADD8E6&text=I'm%20Safae%20Belahrach&fontSize=50&animation=fadeIn" />
 </p>
 
 ---
