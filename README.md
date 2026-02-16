@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 LOL
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=%2C+I'm+Safae+Belahrach" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&lines=Hi+%2C+I'm+Safae+Belahrach" alt="Typing SVG" />
 </h1>
 ---
 
