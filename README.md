@@ -20,12 +20,6 @@ Here are some ideas to get you started:
 </h1>
 <h3 align="center">Software Engineer | Java Developer | Full-Stack Enthusiast</h3>
 
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#4B5563;">
-  Hi 👋 I'm 
-  <marquee behavior="scroll" direction="right" scrollamount="5" style="color:#2563EB; font-weight:bold;">
-    Safae
-  </marquee>
-</h1>
 ---
 
 ## 💻 About Me
@@ -68,7 +62,7 @@ Here are some ideas to get you started:
 Docker • Kubernetes • Linux  
 Git • GitHub • Bitbucket 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github, bitbucket, docker,k8s, terraform, linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,k8s,terraform,linux,jenkins,podman" />
 </p>
 
 ---
@@ -76,7 +70,7 @@ Git • GitHub • Bitbucket
 ## 🛠️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ---
