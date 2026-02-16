@@ -31,7 +31,7 @@ Lol
   <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/wave.gif" width="35px">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Hi...;I'm+Safae+Belahrach+🌱" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Hi...;I'm+Safae+Belahrach+🌱" />
   </a>
 </h1>
 
